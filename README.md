@@ -78,7 +78,7 @@
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/jordanvaleg">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jordanvaleg">
         <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/JordanValenzuela22">
         <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/></a>
